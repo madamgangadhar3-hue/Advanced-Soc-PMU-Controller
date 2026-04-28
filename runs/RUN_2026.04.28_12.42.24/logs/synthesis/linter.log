@@ -1,0 +1,5 @@
+%Warning-CASEINCOMPLETE: /openlane/designs/pmu_controller/src/pmu_controller.v:64:9: Case values incompletely covered (example pattern 0x0)
+   64 |         case (state)
+      |         ^~~~
+                         ... For warning description see https://verilator.org/warn/CASEINCOMPLETE?v=5.009
+                         ... Use "/* verilator lint_off CASEINCOMPLETE */" and lint_on around source to disable this message.

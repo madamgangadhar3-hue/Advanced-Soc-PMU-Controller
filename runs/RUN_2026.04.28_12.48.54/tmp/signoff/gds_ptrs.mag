@@ -1,0 +1,6 @@
+<< properties >>
+string FIXED_BBOX 0 0 10000 10000
+string GDS_END 214362
+string GDS_FILE /openlane/designs/pmu_controller/runs/RUN_2026.04.28_12.48.54/results/signoff/pmu_controller.magic.gds
+string GDS_START 113708
+<< end >>

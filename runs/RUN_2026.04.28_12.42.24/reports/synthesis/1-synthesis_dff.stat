@@ -1,0 +1,22 @@
+
+53. Printing statistics.
+
+=== pmu_controller ===
+
+   Number of wires:                 27
+   Number of wire bits:             29
+   Number of public wires:          10
+   Number of public wire bits:      12
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                 23
+     $_ANDNOT_                       7
+     $_AND_                          1
+     $_MUX_                          2
+     $_NAND_                         1
+     $_NOR_                          3
+     $_ORNOT_                        1
+     $_OR_                           6
+     sky130_fd_sc_hd__dfrtp_2        2
+
