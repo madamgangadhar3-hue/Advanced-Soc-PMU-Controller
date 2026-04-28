@@ -27,7 +27,7 @@ The RTL was fully synthesized and routed into a physical GDSII layout. The desig
 
 ## 🖼️ Physical Layout (GDSII)
 *(Note: Upload your KLayout screenshot to the repository and link it here!)*
-![PMU Layout](layout_images/klayout_screenshot.png)
+![PMU Layout](pmu4.png)
 ## 🛠️ How to Simulate
 To run the Verilog simulation and view the FSM transitions and power gating logic:
 ```bash
